@@ -1,4 +1,8 @@
 _repo: Traduzioni_47890
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47890-h/images/cover.jpg
 creator:
   author:
     agent_name: Guerrazzi, Francesco Domenico
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7633
     wikipedia: http://en.wikipedia.org/wiki/Francesco_Domenico_Guerrazzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47890#Traduzioni
 gutenberg_bookshelf: IT Narrativa varia
 gutenberg_issued: '2015-01-06'
 gutenberg_type: Text
